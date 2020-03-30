@@ -63,10 +63,3 @@ def test():
 
 test()
 
-
-
-# /home/huis/jobs/speedtest/test/script.py
-
-# /home/huis/jobs/speedtest/venv/bin
-
-# */0 * * * * /home/huis/jobs/speedtest/venv/bin/python3 /home/huis/jobs/speedtest/test/script.py
