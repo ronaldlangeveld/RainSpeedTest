@@ -2,7 +2,7 @@ Tested on MacOS and Ubuntu Server 18.04
 
 Install Dependencies as per ```reqs.txt``` inside a Virtual Environment.
 
-Create a ```vars.py``` file and complete the following variables:
+Create a ```vars.py``` file and complete the following variables with your firebase details:
 
 ```
 api = ""
